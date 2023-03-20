@@ -13,8 +13,7 @@
   <img align="center" alt="Dorcas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dorcas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dorcas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="dorcas-gif" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/631fa30b-3741-44bd-8ce4-405c06d19998">
-</div>
+  </div>
 
 ##
 
