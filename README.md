@@ -3,7 +3,7 @@
 
 - 🌱 estudando: html5| css3 | javaScript
 - 📫 contate-me no email: dorcaspereira30@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcaschagas&theme=dark&show_icons=true)
 ##
