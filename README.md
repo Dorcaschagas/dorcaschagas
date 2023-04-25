@@ -1,7 +1,8 @@
 ### Olá, eu sou a Dorcas Chagas 👋
 
 
-- 🌱 estudando: html5| css3 | javaScript
+- 🌱 estudando: Analise e Desenvolvimento de Sistemas 1/4
+- 📖 html5| css3 | javaScript
 - 📫 contate-me no email: dorcaspereira30@gmail.com
 - 😄 Pronomes: ela/dela
 
