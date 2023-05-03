@@ -9,6 +9,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcaschagas&theme=dark&show_icons=true)
 ##
 
+![image](https://user-images.githubusercontent.com/128332474/235817811-e0819755-b983-4967-aa61-c723597e8794.png)
+
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Dorcas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dorcas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
