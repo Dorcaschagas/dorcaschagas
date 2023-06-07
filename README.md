@@ -8,8 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcaschagas&theme=dark&show_icons=true)
 ##
-### CLICK NA IMAGEM PARA ACESSAR AO SITE👇
-<a href="https://dorcaschagas.github.io/portifolio_dev/"><img width="1000" src="https://user-images.githubusercontent.com/128332474/236252775-8f8ab432-7bbd-40dd-ac4a-58075816650d.png" alt=""></a>
 
 
 ##
