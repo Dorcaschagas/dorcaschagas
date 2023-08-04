@@ -4,6 +4,7 @@
 - 🌱 estudando: Analise e Desenvolvimento de Sistemas 1/4
 - 📖 html5| css3 | javaScript
 - 📫 contate-me no email: dorcaspereira30@gmail.com
+- 😉 Portifólio: https://dorcaschagas.com.br/
 - 😄 Pronomes: ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcaschagas&theme=dark&show_icons=true)
