@@ -1,8 +1,8 @@
 ### Olá, eu sou a Dorcas Chagas 👋
 
 
-- 🌱 estudando: Analise e Desenvolvimento de Sistemas 2/4
-- 📖 html5| css3 | javaScript
+- 🌱 estudando: Analise e Desenvolvimento de Sistemas 4/4
+- 📖 html5| css3 | javaScript | nodeJS | Jquery | Bootstrap | MySql | postgreSql
 - 📫 contate-me no email: dorcaspereira30@gmail.com
 - 😉 Portifólio: https://dorcaschagas.com.br/
 - 😄 Pronomes: ela/dela
