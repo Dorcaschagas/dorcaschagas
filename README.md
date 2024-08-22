@@ -20,6 +20,8 @@
   <img align="center" alt="Dorcas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dorcas-Apple" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
   <img align="center" alt="Dorcas-Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+<img align="center" alt="Dorcas-Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+          
 </div>
 
 ### Backend
