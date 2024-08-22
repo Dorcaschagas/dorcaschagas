@@ -2,10 +2,9 @@
 
 
 - 🌱 estudando: Analise e Desenvolvimento de Sistemas 4/4
-- 📖 html5| css3 | javaScript | nodeJS | Jquery | Bootstrap | MySql | postgreSql
-- 📫 contate-me no email: dorcaspereira30@gmail.com
-- 😉 Portifólio: https://dorcaschagas.com.br/
-- 😄 Pronomes: ela/dela
+- 📖 html5| css3 | Bootstrap | javaScript | Jquery | nodeJS | Flutter | Dart | MySql | postgreSql | SQLite
+- 📫 contate-me no email: Dorcaschagas53@gmail.com
+- 😉 Portifólio: https://sitedc.online/portfolio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcaschagas&theme=dark&show_icons=true)
 ##
