@@ -26,7 +26,7 @@ Meu objetivo é me tornar uma desenvolvedora renomada, projetando sistemas robus
 - 📫 **Contact:** [dorcaschagas53@gmail.com](mailto:dorcaschagas53@gmail.com)
 - 😊 **Portfolio:** [sitedc.online/portfolio/](https://sitedc.online/portfolio)
 - 📱 **iOS App:** [Orthocalc na App Store](https://apps.apple.com/us/app/orthocalc/id6636519408)
-- 📱 **Android App:** [Orthocalc na the Play Store](https://play.google.com/store/apps/details?id=com.dorcaschagas.calculadora&pcampaignid=web_share)
+- 📱 **Android App:** [Orthocalc na Play Store](https://play.google.com/store/apps/details?id=com.dorcaschagas.calculadora&pcampaignid=web_share)
 - 📱 **Apresentação do App:** [Saiba mais.](https://sitedc.online/gerarQrcode/orthoCalc.html)
 
 #
