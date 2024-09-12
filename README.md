@@ -6,7 +6,7 @@ Desenvolvedora full-stack, Atualmente estou cursando graduação em Análise e D
 
 ### Conhecimentos:
 
- - Linguagens, bibliotecas e frameworks: 
+ - Linguagens, bibliotecas, frameworks e Tecnologias: 
     - Dart, Node.js, C#, HTML, CSS, JavaScript, Flutter, Bootstrap, jQuery.
 
  - Bancos de dados: 
