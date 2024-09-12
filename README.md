@@ -1,11 +1,10 @@
 
-## Olá, sou Dorcas Chagas 👋
-Análise e Desenvolvimento de Sistemas
+# Olá, sou Dorcas Chagas 👋
+## Análise e Desenvolvimento de Sistemas
 
-Oi! Sou Dorcas, desenvolvedora full-stack.
-Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
+Desenvolvedora full-stack, Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
 
-Conhecimentos:
+### Conhecimentos:
 
  - Linguagens, bibliotecas e frameworks: 
     - Dart, Node.js, C#, HTML, CSS, JavaScript, Flutter, Bootstrap, jQuery.
@@ -14,10 +13,10 @@ Conhecimentos:
    - PostgreSQL, MySQL, SQLite.
 
  - Práticas de Desenvolvimento: 
-   - MVC, API REST.
+   - MVC, API REST, NPM.
 
  - Ferramentas e práticas: 
-   - GitLab, GitHub, NPM.
+   - GitLab, GitHub.
 
 Atualmente, atuo como desenvolvedora full-stack, utilizando JavaScript e Flutter no frontend, e C# com ASP.NET e Node.js no backend, garantindo uma integração eficiente. Também sou responsável pelo controle de versão utilizando Git e GitHub.
 
