@@ -2,7 +2,7 @@
 # Olá, sou Dorcas Chagas 👋
 ## Análise e Desenvolvimento de Sistemas
 
-Desenvolvedora full-stack, Atualmente estou cursando graduação em Análise e Desenvolvimento de Sistemas.
+Desenvolvedora full-stack, formada em Análise e Desenvolvimento de Sistemas.
 
 ### Conhecimentos:
 
